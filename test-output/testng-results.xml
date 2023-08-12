@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80140" started-at="2023-08-12T09:31:09Z" finished-at="2023-08-12T09:32:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80140" started-at="2023-08-12T09:31:09Z" finished-at="2023-08-12T09:32:29Z">
+      <class name="asses1.project1">
+        <test-method status="PASS" signature="start()[pri:0, instance:asses1.project1@553f17c]" name="start" is-config="true" duration-ms="4783" started-at="2023-08-12T09:31:09Z" finished-at="2023-08-12T09:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="befmet()[pri:0, instance:asses1.project1@553f17c]" name="befmet" is-config="true" duration-ms="8" started-at="2023-08-12T09:31:14Z" finished-at="2023-08-12T09:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befmet -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:asses1.project1@553f17c]" name="test1" duration-ms="39362" started-at="2023-08-12T09:31:14Z" finished-at="2023-08-12T09:31:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="aftmet(org.testng.ITestResult)[pri:0, instance:asses1.project1@553f17c]" name="aftmet" is-config="true" duration-ms="5" started-at="2023-08-12T09:31:54Z" finished-at="2023-08-12T09:31:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test1 status=SUCCESS method=project1.test1()[pri:0, instance:asses1.project1@553f17c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftmet -->
+        <test-method status="PASS" signature="befmet()[pri:0, instance:asses1.project1@553f17c]" name="befmet" is-config="true" duration-ms="1" started-at="2023-08-12T09:31:54Z" finished-at="2023-08-12T09:31:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befmet -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:asses1.project1@553f17c]" name="test2" duration-ms="9804" started-at="2023-08-12T09:31:54Z" finished-at="2023-08-12T09:32:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="aftmet(org.testng.ITestResult)[pri:0, instance:asses1.project1@553f17c]" name="aftmet" is-config="true" duration-ms="0" started-at="2023-08-12T09:32:03Z" finished-at="2023-08-12T09:32:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test2 status=SUCCESS method=project1.test2()[pri:0, instance:asses1.project1@553f17c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftmet -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:asses1.project1@553f17c]" name="test3" duration-ms="7934" started-at="2023-08-12T09:32:03Z" finished-at="2023-08-12T09:32:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="befmet()[pri:0, instance:asses1.project1@553f17c]" name="befmet" is-config="true" duration-ms="0" started-at="2023-08-12T09:32:03Z" finished-at="2023-08-12T09:32:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befmet -->
+        <test-method status="PASS" signature="aftmet(org.testng.ITestResult)[pri:0, instance:asses1.project1@553f17c]" name="aftmet" is-config="true" duration-ms="1" started-at="2023-08-12T09:32:11Z" finished-at="2023-08-12T09:32:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test3 status=SUCCESS method=project1.test3()[pri:0, instance:asses1.project1@553f17c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftmet -->
+        <test-method status="PASS" signature="befmet()[pri:0, instance:asses1.project1@553f17c]" name="befmet" is-config="true" duration-ms="1" started-at="2023-08-12T09:32:11Z" finished-at="2023-08-12T09:32:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befmet -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:asses1.project1@553f17c]" name="test4" duration-ms="18001" started-at="2023-08-12T09:32:11Z" finished-at="2023-08-12T09:32:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="end()[pri:0, instance:asses1.project1@553f17c]" name="end" is-config="true" duration-ms="193" started-at="2023-08-12T09:32:29Z" finished-at="2023-08-12T09:32:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method status="PASS" signature="aftmet(org.testng.ITestResult)[pri:0, instance:asses1.project1@553f17c]" name="aftmet" is-config="true" duration-ms="0" started-at="2023-08-12T09:32:29Z" finished-at="2023-08-12T09:32:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test4 status=SUCCESS method=project1.test4()[pri:0, instance:asses1.project1@553f17c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftmet -->
+      </class> <!-- asses1.project1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
